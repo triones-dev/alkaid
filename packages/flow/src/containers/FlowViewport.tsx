@@ -188,8 +188,10 @@ export const FlowViewport = observer(() => {
             })
         })
         graphInstance.on('node:click', ({e, x, y, cell, view}) => {
-            debugger
             viewport.setSelectedNode(cell)
+        })
+        graphInstance.on('blank:click', () => {
+            viewport.cleanSelectedNode()
         })
         graphInstance.on('cell:contextmenu', ({e, x, y, cell, view}) => {
             let type: string = 'node';
