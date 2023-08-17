@@ -1634,7 +1634,7 @@
   resolved "https://moensun-npm.pkg.coding.net/npm/moensun/@formily/reactive/-/reactive-2.2.29.tgz#d4b713689e464af7e4af844fdc8e27145f2f6a46"
   integrity sha512-VYfIJpqx1EA2/9nkZvs/sJI+hjEAEZWKof4NAdRDA92Dj18IkdjobgzV57ZiOZZPII3J53qbUL0lGtRsx3wQxQ==
 
-"@formily/shared@2.2.29", "@formily/shared@^2.2.0", "@formily/shared@^2.2.29":
+"@formily/shared@2.2.29", "@formily/shared@^2.2.0", "@formily/shared@^2.2.27", "@formily/shared@^2.2.29":
   version "2.2.29"
   resolved "https://moensun-npm.pkg.coding.net/npm/moensun/@formily/shared/-/shared-2.2.29.tgz#c7c8f4de5fa3bd7e2f45f96edf4781866df439b1"
   integrity sha512-vB9xY+/DtbdWFK5DWoKYo0hfm2MPVMKvxxqsVMfZEPh4ioD/2MohwOiLLm7IVllcrZWEAxJk8JY3EhBS1WD6yg==
